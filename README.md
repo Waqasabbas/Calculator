@@ -5,3 +5,4 @@ download Anaconda https://www.anaconda.com/
 
 Otherwise you can also Use any platform If you are not familiar with anaconda
 all you need to pip install module_name to satisfy the enviroment
+[![Run on Repl.it](https://repl.it/badge/github/Waqasabbas/Calculator)](https://repl.it/github/Waqasabbas/Calculator)
